@@ -41,9 +41,9 @@ cat part.txt | python 21mapper.py | sort  | python 22reducer.py
 Command to use large dataset in case 2
 ```Bash
 cat purchases.txt
-cat purchases.txt | python 21mapper.py
-cat purchases.txt | python 21mapper.py | sort
-cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py
+cat purchases.txt | py 21mapper.py
+cat purchases.txt | py 21mapper.py | sort
+cat purchases.txt | py 21mapper.py | sort  | py 22reducer.py
 ```
 ## References
 
