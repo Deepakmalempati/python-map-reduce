@@ -1,4 +1,4 @@
-# Python Map Reduce
+# Python Map Reduce-practice
 
 Basic Python introduction and concepts needed in preparation for working with map-reduce solutions.
 
@@ -51,6 +51,6 @@ cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py
 - [IBM Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 - [Basic Setup for Big Data](https://github.com/denisecase/basic-setup-for-bigdata)
 
-## Repository
+## Forked Repository
 
 - [https://github.com/denisecase/python-map-reduce](https://github.com/denisecase/python-map-reduce)
